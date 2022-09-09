@@ -15,7 +15,7 @@ Por Cristofer Becerra Sánchez
 
 ### Conjunto de Entrenamiento
 
-- Exactitud promedio: 97.9%
+- Exactitud promedio: 97.8%
 - Precisión promedio: 98%
 - Sensibilidad (Recall) promedio: 98%
 - F1 promedio: 98%
