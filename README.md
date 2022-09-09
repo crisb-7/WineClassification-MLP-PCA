@@ -17,20 +17,20 @@ Por Cristofer Becerra Sánchez
 
 - Exactitud promedio: 97.8%
 - Precisión promedio: 98%
-- Sensibilidad (Recall) promedio: 98%
+- Exhaustividad promedio: 98%
 - F1 promedio: 98%
 
 ### Conjunto de Validación
 
 - Exactitud promedio: 97.7%
 - Precisión promedio: 98%
-- Sensibilidad (Recall) promedio: 98%
+- Exhaustividad promedio: 98%
 - F1 promedio: 98%
 
 ### Conjunto de Prueba
 - Exactitud promedio: 100%
 - Precisión promedio: 100%
-- Sensibilidad (Recall) promedio: 100%
+- Exhaustividad promedio: 100%
 - F1 promedio: 100%
 
 ## Archivos del repositorio
