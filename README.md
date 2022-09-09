@@ -6,7 +6,7 @@ Por Cristofer Becerra Sánchez
 
 ## Datos Generales
 
-- **Dataset**: [Vinos](https://raw.githubusercontent.com/crisb-7/WineClassification-MLP/main/wine.data)
+- **Dataset**: [Vinos](https://raw.githubusercontent.com/crisb-7/WineClassification-MLP-PCA/main/wine.data)
 - **Biblioteca**: Scikit-learn
 - **Modelo**: Multi-layer Perceptron Classifier
 - **Número de características**: 13 características, 2 componentes principales
